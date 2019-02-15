@@ -21,6 +21,7 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    //设置fun前面没有空格,不会报错
     "space-before-function-paren":["error","never"],
     // allow async-await
     'generator-star-spacing': 'off',

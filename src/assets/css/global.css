@@ -6,3 +6,11 @@ body,
   padding: 0;
 }
 
+i.iconfont {
+  margin-right: 10px;
+}
+
+.el-submenu__title,
+.el-icon-menu {
+  font-size: 13px;
+}
